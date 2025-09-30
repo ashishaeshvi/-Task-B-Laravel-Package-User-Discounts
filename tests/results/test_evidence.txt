@@ -1,0 +1,7 @@
+
+   PASS  Tests\Unit\DiscountServiceTest
+  ✓ discount apply respects usage cap                                    1.42s  
+
+  Tests:    1 passed (2 assertions)
+  Duration: 1.45s
+
